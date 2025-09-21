@@ -2,9 +2,11 @@
 
 ### by Arthur1459
 
+### [DEMO VIDEO](https://youtu.be/ZsRW8K_1e3M?si=wY4C74sDyOPaXK1G)
+
 ### This project aims to simulate the walk learning process.
 
-Based on my "Flow" physic engine, a body is trying to learn how to walk.
+Based on my "Flow" physic engine ([link](https://github.com/Arthur1459/Sandbox/tree/2DPhysicEngine_Flow/Flow)), a body is trying to learn how to walk.
 The learning is base on evolution theory. The genetic of the body
 contains the amplitude and pulsation of different movement possible.
 The score is the distance to the right side, the more the distance is short, the more the
