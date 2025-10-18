@@ -9,7 +9,7 @@
 Based on my "Flow" physic engine ([link](https://github.com/Arthur1459/Sandbox/tree/2DPhysicEngine_Flow/Flow)), a body is trying to learn how to walk.
 The learning is base on evolution theory. The genetic of the body
 contains the amplitude and pulsation of different movement possible.
-The score is the distance to the right side, the more the distance is short, the more the
+The score is the distance left to the right side, the more the distance to the left is short, the more the
 genetic is kept.
 
 Here is the body trained (orange):
